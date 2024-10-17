@@ -9,7 +9,7 @@
     <div class='type-222'>
         <div class='container'>
             <div class='row'>
-                <div class='col l-6 m-4 m-6 c-12 c-12'>
+                <div class='col l-6 m-4 m-6 c-12'>
                     <div class='fotter__wrapFind'>
                         <h4 class='footer__find'>
                             <a class="footer__findLink" href="">FIND A STORE</a>
